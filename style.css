@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  /*body of page*/
+  body {
+    padding: 1rem;
+    text-align: center;
+    background-color: #cfa8a8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  /*style for header*/
+  header {
+    padding: 0.5rem;
+    width: 100%;
+    color: white;
+    background-color: brown;
+  }
+  /*style for card*/
+  #coffee-list {
+    margin: 2rem;
+    text-align: left;
+  }
+
+  .card {
+    text-align: center;
+    border: grey solid 1px;
+    padding: 1rem;
+    width: 35rem;
+    height: 45rem;
+    display: inline-grid;
+    margin: 1rem 2rem;
+  }
+  .coffee-image {
+    max-width: 100%;
+    max-height: 100%;
+    
+  }
+  
+  /*new coffee input area*/
+  form {
+    margin: 1rem 0;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background-color:rgb(236, 232, 230);
+  }
+  
+  input,
+  textarea {
+    font-size: 1rem;
+    border: 1px solid rgb(188, 72, 72);
+    background-color: white;
+    padding: 0.5rem;
+    margin: 0.25rem 0;
+    width: 100%;
+  }
+  /*submit button*/
+  input[type="submit"] {
+    color: white;
+    border: 1px solid white;
+    background-color: firebrick;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
+ 
+  form h4 {
+    width: 100%;
+    padding: 0.25rem;
+    margin: 0.5rem 0;
+    color: white;
+    background-color: burlywood;
+  }

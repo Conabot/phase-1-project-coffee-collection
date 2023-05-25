@@ -1,0 +1,52 @@
+{
+  "coffees": [
+    {
+      "id": 1,
+      "name": "Espresso",
+      "ingredient": "2 short of Espresso",
+      "image": "https://coffee.alexflipnote.dev/NzS8rGzpyms_coffee.jpg",
+      "price": "$3.5 - $4.5",
+      "like": 5
+    },
+    {
+      "id": 2,
+      "name": "Capuchino",
+      "ingredient": "2 short of Espresso with milk",
+      "image": "https://coffee.alexflipnote.dev/0L8U2_98acE_coffee.png",
+      "price": "$5.5",
+      "like": 5
+    },
+    {
+      "id": 3,
+      "name": "Vietnamese Coffee",
+      "ingredient": "4 short of Espresso with caramel",
+      "image": "https://coffee.alexflipnote.dev/k84tqgt86Fs_coffee.jpg",
+      "price": "$6.5",
+      "like": 1
+    },
+    {
+      "id": 4,
+      "name": "Eggs Coffee",
+      "ingredient": "3 short of Espresso with eggs yolk",
+      "image": "https://coffee.alexflipnote.dev/MMIxMb38NMs_coffee.png",
+      "price": "$6.5",
+      "like": 2
+    },
+    {
+      "id": 5,
+      "name": "Coconut Coffee",
+      "ingredient": "3 short of Espresso with coconut milk",
+      "image": "https://coffee.alexflipnote.dev/fD_-gcxs2a4_coffee.jpg",
+      "price": "$6.5",
+      "like": 2
+    },
+    {
+      "name": "coffee black",
+      "ingredient": "coffee blank",
+      "image": "https://coffee.alexflipnote.dev/swOWiktJndQ_coffee.jpg",
+      "price": "$3.5",
+      "like": 0,
+      "id": 6
+    }
+  ]
+}
