@@ -28,14 +28,14 @@ Your base URL for your API will be: http://localhost:3000
 
 The endpoints you may need are:
 
-GET /tasks
-GET /tasks/:id
+GET /coffees
+GET /coffees/:id
 Feel free to add any additional classes or ids to any elements in the HTML file as you see fit.
 
 
 Core Deliverables
-To create a new task, fill out the form at the top of the page and click the "Add Task" button
-To view the details of a task, click on the task in the list
-To mark a task as completed, click the "Mark Complete" button next to the task
-To delete a task, click the "Delete" button next to the task
-Credits
+To create a new coffee, fill out the form at the top of the page and click the "Add New Coffee" button
+Detail of task will be contained in a card. 
+To interact with the app, user can click on the like button.
+When click on the like button, the number of like will increase.
+
